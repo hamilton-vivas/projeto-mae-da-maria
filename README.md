@@ -18,7 +18,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
 
 ## Meu Processo
 
-### Feito com HTML
+### Feito com
 
 - Marcação/tags HTML5 do HTML Codex
 - Propriedades/atributos CSS do HTML Codex
