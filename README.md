@@ -34,13 +34,13 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
 1 - Clone
 
 ```
-https://github.com/hamilton-vivas/projeto-portifolio.git
+https://github.com/hamilton-vivas/projeto-mae-da-maria.git
 ```
 
 2 - Acesse a pasta do projeto
 
 ```
-projeto-portifolio
+projeto-mae-da-maria
 ```
 
 ## Template do htmlcodex utilizada
