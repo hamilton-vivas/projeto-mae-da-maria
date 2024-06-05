@@ -53,7 +53,7 @@ projeto-mae-da-maria
 
 ## Autor do projeto
 
-- [Hamilton Alexandre](https://hamilton-vivas.github.io/portfolio-simplificado/)
+- [Hamilton Alexandre](http://www.alexprogramadorweb.com)
 
 ## Créditos
 
