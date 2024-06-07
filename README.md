@@ -49,7 +49,7 @@ projeto-mae-da-maria
 
 ## Acesse a página da Mãe da Maria
 
-- Confeitaria [Mãe da Maria](https://www.exemplo.com)
+- Confeitaria [Mãe da Maria](https://www.maedamaria.com)
 
 ## Autor do projeto
 
