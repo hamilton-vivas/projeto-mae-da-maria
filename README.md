@@ -27,7 +27,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
 - Alterações significativas no template para atender às necessidades do cliente
 - Alterações nas cores no arquivo `style.css`
 - Alterações nas cores no arquivo `bootstrap.min.css`
--Inclusão de tags semânticas para melhorar a indexação pelos mecanismos de busca
+- Inclusão de tags semânticas na template para melhorar a indexação pelos mecanismos de busca
 
 ## Como utilizar
 
